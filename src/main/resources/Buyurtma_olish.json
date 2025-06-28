@@ -1,0 +1,30 @@
+[
+  {
+    "id": "955679f1-a8c1-4aa3-9024-90dcc9706275",
+    "stol_raqami": "15",
+    "afitsiyantid": "fe384012-895b-48ee-a5eb-88870cbe2c5e",
+    "buyurtma": "MIJOZ_OVQATLANYAPTI",
+    "date": "2025-06-28",
+    "ovqat_bs": [
+      {
+        "id": "9389e5f8-a000-43ab-9984-2daa35a32b2b",
+        "ovqatid": "42d11362-61d7-48a0-b91d-19db8e46bb95",
+        "ovqat_name": "osh"
+      }
+    ]
+  },
+  {
+    "id": "b6930764-e37c-45e2-a49a-8401c951b564",
+    "stol_raqami": "6",
+    "afitsiyantid": "fe384012-895b-48ee-a5eb-88870cbe2c5e",
+    "buyurtma": "MIJOZ_OVQATLANYAPTI",
+    "date": "2025-06-28",
+    "ovqat_bs": [
+      {
+        "id": "83ef0c4d-71f5-4793-9e0c-8f8373789d21",
+        "ovqatid": "7b6b7595-964b-469a-a9d5-34073c097d5e",
+        "ovqat_name": "qazi"
+      }
+    ]
+  }
+]
